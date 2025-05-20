@@ -1,0 +1,117 @@
+{
+  "Diseases": {
+    "Parkinsonism": [
+      {
+        "code": "8A00",
+        "title": "Parkinsonism",
+        "children": [
+          {
+            "code": "8A00.0",
+            "title": "Parkinson disease",
+            "children": [
+              { "code": "8A00.00", "title": "Sporadic Parkinson disease" },
+              { "code": "8A00.01", "title": "Familial Parkinson disease" },
+              { "code": "8A00.Y", "title": "Other specified Parkinson disease" },
+              { "code": "8A00.Z", "title": "Parkinson disease, unspecified" }
+            ]
+          },
+          {
+            "code": "8A00.1",
+            "title": "Atypical parkinsonism",
+            "children": [
+              { "code": "8A00.10", "title": "Progressive supranuclear palsy" },
+              { "code": "8D87.01", "title": "Multiple system atrophy, Parkinsonism" },
+              { "code": "8A22", "title": "Lewy body disease" },
+              { "code": "8A00.1Y", "title": "Other specified atypical parkinsonism" },
+              { "code": "8A00.1Z", "title": "Atypical parkinsonism, unspecified" }
+            ]
+          },
+          {
+            "code": "8A00.2",
+            "title": "Secondary parkinsonism",
+            "children": [
+              { "code": "8A00.20", "title": "Parkinsonism due to heredodegenerative disorders" },
+              { "code": "8A00.21", "title": "Hemiparkinsonism hemiatrophy syndrome" },
+              { "code": "8A00.22", "title": "Infectious or postinfectious parkinsonism" },
+              { "code": "8A00.23", "title": "Vascular parkinsonism" },
+              { "code": "8A00.24", "title": "Drug-induced parkinsonism" },
+              { "code": "8A00.25", "title": "Post traumatic Parkinsonism" },
+              { "code": "8A00.26", "title": "Parkinsonism due to structural lesions" },
+              { "code": "8A00.2Y", "title": "Other specified secondary parkinsonism" },
+              { "code": "8A00.2Z", "title": "Secondary parkinsonism, unspecified" }
+            ]
+          },
+          { "code": "8A00.3", "title": "Functional parkinsonism" },
+          { "code": "8A00.Y", "title": "Other specified parkinsonism" },
+          { "code": "8A00.Z", "title": "Parkinsonism, unspecified" }
+        ]
+      }
+    ],
+    "Migraine": [
+      {
+        "code": "8A80",
+        "title": "Migraine",
+        "children": [
+          { "code": "8A80.0", "title": "Migraine without aura" },
+          {
+            "code": "8A80.1",
+            "title": "Migraine with aura",
+            "children": [
+              { "code": "8A80.10", "title": "Hemiplegic migraine" },
+              { "code": "8A80.1Y", "title": "Other specified migraine with aura" },
+              { "code": "8A80.1Z", "title": "Migraine with aura, unspecified" }
+            ]
+          },
+          { "code": "8A80.2", "title": "Chronic migraine" },
+          {
+            "code": "8A80.3",
+            "title": "Complications related to migraine",
+            "children": [
+              { "code": "8A80.30", "title": "Status migrainosus" },
+              { "code": "8A80.3Y", "title": "Other specified complications related to migraine" },
+              { "code": "8A80.3Z", "title": "Complications related to migraine, unspecified" }
+            ]
+          },
+          { "code": "8A80.4", "title": "Cyclic vomiting syndrome" },
+          { "code": "8A80.Y", "title": "Other specified migraine" },
+          { "code": "8A80.Z", "title": "Migraine, unspecified" }
+        ]
+      }
+    ],
+    "Pneumonitis": [
+      {
+        "code": "CA70",
+        "title": "Hypersensitivity pneumonitis due to organic dust",
+        "children": [
+          { "code": "CA70.0", "title": "Farmer lung" },
+          { "code": "CA70.1", "title": "Bagassosis" },
+          { "code": "CA70.2", "title": "Bird fancier lung" },
+          { "code": "CA70.3", "title": "Suberosis" },
+          { "code": "CA70.4", "title": "Malt worker lung" },
+          { "code": "CA70.5", "title": "Mushroom worker lung" },
+          { "code": "CA70.6", "title": "Maple bark stripper lung" },
+          { "code": "CA70.7", "title": "Air conditioner or humidifier lung" },
+          { "code": "CA70.Y", "title": "Other specified hypersensitivity pneumonitis due to organic dust" },
+          { "code": "CA70.Z", "title": "Hypersensitivity pneumonitis due to organic dust, unspecified" }
+        ]
+      },
+      {
+        "code": "CA71",
+        "title": "Pneumonitis due to solids or liquids",
+        "children": [
+          { "code": "CA71.0", "title": "Pneumonitis due to inhalation of food or vomit" },
+          { "code": "CA71.1", "title": "Pneumonitis due to oils or essences" },
+          { "code": "CA71.2", "title": "Pneumonitis due to aspiration of blood" },
+          { "code": "CA71.3", "title": "Lipoid pneumonitis" },
+          { "code": "CA71.Y", "title": "Other specified pneumonitis due to solids or liquids" },
+          { "code": "CA71.Z", "title": "Pneumonitis due to solids or liquids, unspecified" }
+        ]
+      },
+      { "code": "CA72", "title": "Mendelson syndrome" },
+      { "code": "CB04.6", "title": "Chronic pneumonitis of infancy" },
+      { "code": "JB00.C.0", "title": "Aspiration pneumonitis due to anaesthesia during labour or delivery" },
+      { "code": "CA7Y", "title": "Other specified pneumonitis" },
+      { "code": "CA7Z", "title": "Pneumonitis, unspecified" }
+    ]
+  }
+}

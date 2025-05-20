@@ -1,0 +1,82 @@
+{
+    "Drugs": {
+        "Pilocarpine": [
+            {
+                "code": "1000638",
+                "title": "Pilocarpine Hydrochloride 0.04 MG/MG Ophthalmic Gel",
+                "children": [
+                    {
+                        "code": "1000642",
+                        "title": "Pilocarpine Hydrochloride 0.04 MG/MG Ophthalmic Gel [Pilopine]"
+                    }
+                ]
+            },
+            {
+                "code": "1000917",
+                "title": "Pilocarpine Hydrochloride 5 MG/ML Ophthalmic Solution",
+                "children": [
+                    {
+                        "code": "1000919",
+                        "title": "Pilocarpine Hydrochloride 5 MG/ML [Isoptocarpine]"
+                    },
+                    {
+                        "code": "1000923",
+                        "title": "Pilocarpine Hydrochloride 5 MG/ML [Ocu-Carpine]"
+                    },
+                    {
+                        "code": "1000929",
+                        "title": "Pilocarpine Hydrochloride 5 MG/ML [Piloptic]"
+                    },
+                    {
+                        "code": "1000931",
+                        "title": "Pilocarpine Hydrochloride 5 MG/ML [Pilostat]"
+                    }
+                ]
+            }
+        ],
+        "Medroxyprogesterone": [
+            {
+                "code": "1000131",
+                "title": "Medroxyprogesterone acetate 400 MG/ML Injectable Suspension",
+                "children": [
+                    {
+                        "code": "1000133",
+                        "title": "Medroxyprogesterone acetate 400 MG/ML Injectable Suspension [Depo-Provera]"
+                    }
+                ]
+            },
+            {
+                "code": "1000380",
+                "title": "Medroxyprogesterone acetate 250 MG Oral Tablet"
+            },
+            {
+                "code": "1000386",
+                "title": "Medroxyprogesterone acetate 500 MG Oral Tablet"
+            }
+        ],
+        "Oxymetazoline": [
+            {
+                "code": "1000987",
+                "title": "Oxymetazoline hydrochloride 0.5 MG/ML Nasal Solution",
+                "children": [
+                    {
+                        "code": "1000989",
+                        "title": "Oxymetazoline hydrochloride [NTZ Long Acting Nasal]"
+                    },
+                    {
+                        "code": "1001010",
+                        "title": "Oxymetazoline hydrochloride [Duration]"
+                    },
+                    {
+                        "code": "1001020",
+                        "title": "Oxymetazoline hydrochloride [Mucinex Nasal Spray]"
+                    },
+                    {
+                        "code": "1001064",
+                        "title": "Oxymetazoline hydrochloride [Sinarest Nasal]"
+                    }
+                ]
+            }
+        ]
+    }
+}
