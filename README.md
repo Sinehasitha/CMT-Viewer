@@ -1,15 +1,12 @@
- #Controlled Medical Terminology (CMT) Viewer
+ #Controlled Medical Terminology (CMT) Viewer:
 An interactive Python-based GUI application for visualizing structured clinical terminology trees using real-world standards like ICD, SNOMED CT, and RxTerms.
 
 Features
 Visualizes four major medical categories:
 
 Anatomy
-
 Diseases
-
 Drugs
-
 Diagnostic Techniques
 
 Tree-based navigation using verified JSON files
