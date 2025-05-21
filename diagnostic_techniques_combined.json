@@ -1,0 +1,245 @@
+{
+    "Diagnostic Techniques": {
+    "Fluorescence Imaging": [
+        {
+            "code": "413789007",
+            "title": "Angiography using indocyanine green",
+            "children": [
+                {
+                    "code": "426774006",
+                    "title": "Angiography of flap using indocyanine green"
+                },
+                {
+                    "code": "426773000",
+                    "title": "Indocyanine green angiography of eye"
+                }
+            ]
+        },
+        {
+            "code": "713863001",
+            "title": "Fluorescence imaging of eye",
+            "children": [
+                {
+                    "code": "426775007",
+                    "title": "Angiography of eye using fluorescein",
+                    "children": [
+                        {
+                            "code": "426776008",
+                            "title": "Angiography of anterior segment fluorescein"
+                        },
+                        {
+                            "code": "426777004",
+                            "title": "Angiography of posterior segment of eye using fluorescein"
+                        },
+                        {
+                            "code": "426778009",
+                            "title": "Ophthalmoscopy with medical evaluation, extended, with fluorescein angiography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "432515008",
+            "title": "Localization of sentinel lymph node using indocyanine green"
+        },
+        {
+            "code": "442202005",
+            "title": "Lymphangiography of lower limb using indocyanine green"
+        },
+        {
+            "code": "442201003",
+            "title": "Lymphangiography of upper limb using indocyanine green"
+        },
+        {
+            "code": "699999008",
+            "title": "Oral fluorescence imaging"
+        }
+    ],
+       
+    "Electromyography (EMG)": [
+        {
+            "code": "252538006",
+            "title": "Concentric needle electromyography",
+            "children": [
+                {
+                    "code": "252538006.1",
+                    "title": "Quantitative electromyography analysis",
+                    "children": [
+                        {
+                            "code": "252538006.1.1",
+                            "title": "Automated decomposition electromyography"
+                        },
+                        {
+                            "code": "252538006.1.2",
+                            "title": "Interference pattern electromyography analysis"
+                        },
+                        {
+                            "code": "252538006.1.3",
+                            "title": "Motor unit analysis"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "252538006.2",
+            "title": "Edrophonium chloride test with electromyographic recording"
+        },
+        {
+            "code": "252538006.3",
+            "title": "Electromyography for disorder of central nervous system"
+        },
+        {
+            "code": "252538006.4",
+            "title": "Electromyography of pelvic floor"
+        },
+        {
+            "code": "252538006.5",
+            "title": "Electromyography of sphincter",
+            "children": [
+                {
+                    "code": "252538006.5.1",
+                    "title": "Electromyography of anal sphincter"
+                },
+                {
+                    "code": "252538006.5.2",
+                    "title": "Electromyography of urethral sphincter"
+                }
+            ]
+        },
+        {
+            "code": "252538006.6",
+            "title": "Electromyography, four extremities and related paraspinal areas"
+        },
+        {
+            "code": "252538006.7",
+            "title": "Gastrointestinal electromyography",
+            "children": [
+                {
+                    "code": "252538006.7.1",
+                    "title": "Electromyography of stomach",
+                    "children": [
+                        {
+                            "code": "252538006.7.1.1",
+                            "title": "Burge test"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "252538006.8",
+            "title": "Injection of botulinum toxin into vocals muscle using electromyography guidance"
+        },
+        {
+            "code": "252538006.9",
+            "title": "Intraoperative electromyography"
+        },
+        {
+            "code": "252538006.10",
+            "title": "Macro electromyography"
+        },
+        {
+            "code": "252538006.11",
+            "title": "Multiplate electromyography"
+        },
+        {
+            "code": "252538006.12",
+            "title": "Quantitative myometry"
+        },
+        {
+            "code": "252538006.13",
+            "title": "Single fiber electromyography"
+        },
+        {
+            "code": "252538006.14",
+            "title": "Surface electromyography"
+        }
+    ],
+
+       
+    "Evoked Potentials": [
+        {
+            "title": "Auditory evoked potential",
+            "children": [
+                {
+                    "title": "Brain stem auditory evoked potentials"
+                },
+                {
+                    "title": "Cortical auditory evoked potentials",
+                    "children": [
+                        {
+                            "title": "Long latency cortical auditory evoked potentials"
+                        },
+                        {
+                            "title": "Short latency cortical auditory evoked potentials"
+                        },
+                        {
+                            "title": "Middle latency auditory evoked potentials"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Cerebral evoked potential"
+        },
+        {
+            "title": "Event-related potentials",
+            "children": [
+                {
+                    "title": "Cognitive-evoked potentials"
+                },
+                {
+                    "title": "Contingent negative variation"
+                },
+                {
+                    "title": "Movement-related potentials",
+                    "children": [
+                        {
+                            "title": "Bereitschafts potential"
+                        },
+                        {
+                            "title": "Motor-potential"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Intraoperative evoked potentials"
+        },
+        {
+            "title": "Nerve fiber action potential",
+            "children": [
+                {
+                    "title": "Compound nerve action potential"
+                },
+                {
+                    "title": "Nerve potential"
+                }
+            ]
+        },
+        {
+            "title": "Olfactory evoked potential"
+        },
+        {
+            "title": "Sensory potential",
+            "children": [
+                {
+                    "title": "Compound sensory nerve action potential"
+                }
+            ]
+        },
+        {
+            "title": "Somatosensory evoked potential",
+            "children": [
+                {
+                    "title": "Cortical somatosensory evoked potential"
+                }
+            ]
+        }
+    ]
+}
+}

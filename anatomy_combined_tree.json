@@ -1,0 +1,176 @@
+{
+    "Anatomy": {
+        "Structure of hepatic acinus": [
+            {
+                "title": "Entire hepatic acinus"
+            },
+            {
+                "title": "Hepatic lacunae structure",
+                "children": [
+                    {
+                        "title": "Entire hepatic lacunae"
+                    },
+                    {
+                        "title": "Structure of hepatic sinusoid",
+                        "children": [
+                            {
+                                "title": "Entire hepatic sinusoid"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Structure of space of Disse",
+                        "children": [
+                            {
+                                "title": "Entire space of Disse"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Portal triad structure",
+                "children": [
+                    {
+                        "title": "Entire portal triad"
+                    },
+                    {
+                        "title": "Structure of interlobular artery of liver",
+                        "children": [
+                            {
+                                "title": "Entire interlobular artery of liver"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Structure of interlobular bile duct",
+                        "children": [
+                            {
+                                "title": "Entire interlobular bile duct"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Structure of interlobular vein of liver",
+                        "children": [
+                            {
+                                "title": "Entire interlobular vein of liver"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Structure of space of Mall",
+                "children": [
+                    {
+                        "title": "Entire space of Mall"
+                    }
+                ]
+            },
+            {
+                "title": "Structure of bile canaliculus",
+                "children": [
+                    {
+                        "title": "Entire bile canaliculus"
+                    }
+                ]
+            },
+            {
+                "title": "Structure of intralobular bile duct",
+                "children": [
+                    {
+                        "title": "Entire intralobular bile duct"
+                    },
+                    {
+                        "title": "Structure of Canal of Hering"
+                    }
+                ]
+            }
+        ],
+        "Structure of sclera of left eye": [
+            {
+                "title": "Structure of anterior sclera of left eye"
+            },
+            {
+                "title": "Structure of left lamina episcleralis"
+            },
+            {
+                "title": "Structure of limbus corneae of left eye",
+                "children": [
+                    {
+                        "title": "Structure of superior corneal limbus of left eye"
+                    }
+                ]
+            },
+            {
+                "title": "Structure of posterior sclera of left eye"
+            },
+            {
+                "title": "Structure of sinus venosus of sclera of left eye"
+            },
+            {
+                "title": "Trabecular meshwork structure of left eye",
+                "children": [
+                    {
+                        "title": "Structure of corneoscleral meshwork of left eye"
+                    },
+                    {
+                        "title": "Structure of juxtacanalicular meshwork of left eye"
+                    },
+                    {
+                        "title": "Structure of uveal meshwork of left eye"
+                    }
+                ]
+            }
+        ],
+        "Structure of transplanted heart": [
+            {
+                "title": "Entire transplanted heart"
+            },
+            {
+                "title": "Structure of transplanted cardiac valve",
+                "children": [
+                    {
+                        "title": "Entire transplanted cardiac valve",
+                        "children": [
+                            {
+                                "title": "Entire transplanted aortic valve"
+                            },
+                            {
+                                "title": "Entire transplanted mitral valve"
+                            },
+                            {
+                                "title": "Entire transplanted pulmonary valve"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Structure of transplanted aortic valve",
+                        "children": [
+                            {
+                                "title": "Entire transplanted aortic valve"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Structure of transplanted mitral valve",
+                        "children": [
+                            {
+                                "title": "Entire transplanted mitral valve"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Structure of transplanted pulmonary valve",
+                        "children": [
+                            {
+                                "title": "Entire transplanted pulmonary valve"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
